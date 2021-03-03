@@ -1,0 +1,12 @@
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.exe
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.deps.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.runtimeconfig.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.runtimeconfig.dev.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.dll
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\bin\Debug\netcoreapp3.1\Exe1008.pdb
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.AssemblyInfoInputs.cache
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.AssemblyInfo.cs
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.csproj.CoreCompileInputs.cache
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.dll
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.pdb
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1008\Exe1008\obj\Debug\netcoreapp3.1\Exe1008.genruntimeconfig.cache

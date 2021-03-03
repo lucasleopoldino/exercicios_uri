@@ -1,0 +1,13 @@
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.exe
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.deps.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.runtimeconfig.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.runtimeconfig.dev.json
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.dll
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\bin\Debug\netcoreapp3.1\Exe1004.pdb
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.csprojAssemblyReference.cache
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.AssemblyInfoInputs.cache
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.AssemblyInfo.cs
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.csproj.CoreCompileInputs.cache
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.dll
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.pdb
+C:\Users\Loderdakar\source\repos\ExerciciosURI\Exercicios\Exe1004\Exe1004\obj\Debug\netcoreapp3.1\Exe1004.genruntimeconfig.cache
